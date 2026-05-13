@@ -1,0 +1,6 @@
+title: PEPTOMA Documentation
+description: Open DeSci platform for peptide research — AI analysis, community peer-review, Arweave archiving, Solana tokenomics.
+theme: jekyll-theme-slate
+url: https://peptoma.github.io
+baseurl: /docs
+show_downloads: false
